@@ -76,24 +76,24 @@
 
 ---
 
-### 🚀 About Me
+About Me
 
 ```yaml
 name: Md Mahbub Alom
 role: Full-Stack Developer & Software Engineer
-interests: [Full-Stack Web Development, Machine Learning, AI Systems, Cloud Services]
+interests: Full-Stack Web Development, Machine Learning, AI Systems, Cloud Services
 location: Dhaka, Bangladesh
-open_to: [Software Engineering Roles, ML/AI Projects, Tech Collaborations]
+open_to: Software Engineering Roles, ML/AI Projects, Tech Collaborations
 ```
 
-- 💡 **Engineering Mindset:** Crafting responsive, scalable, and intelligent applications with clean architecture and modern development practices.
-- 🔭 **Current Focus:** Next.js 15, TypeScript, Python (Machine Learning & AI flows), ASP.NET Core MVC, and modern cloud deployment.
-- 🤝 **Collaboration:** Actively exploring opportunities to build high-impact web and AI products.
-- 💬 **Ask me about:** JavaScript/TypeScript, React/Next.js, Python, C#/.NET, Machine Learning fundamentals, and full-stack system design.
+Engineering Mindset: Crafting responsive, scalable, and intelligent applications with clean architecture and modern development practices.
+Current Focus: Next.js 15, TypeScript, Python (Machine Learning & AI flows), ASP.NET Core MVC, and modern cloud deployment.
+Collaboration: Actively exploring opportunities to build high-impact web and AI products.
+Ask me about: JavaScript/TypeScript, React/Next.js, Python, C#/.NET, Machine Learning fundamentals, and full-stack system design.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+Tech Stack & Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,redux,csharp,dotnet,python,pytorch,firebase,html,css,git,github,figma,postman&theme=dark" alt="Tech Stack Badges" />
@@ -116,32 +116,6 @@ open_to: [Software Engineering Roles, ML/AI Projects, Tech Collaborations]
 
 ---
 
-### 🏆 Featured Projects & Innovations
-
-| Project | Description | Stack | Link |
-| :--- | :--- | :---: | :---: |
-| 🌾 **KrishiBondhu AI** | AI-powered agricultural assistant with multimodal plant disease detection & bilingual voice advisor. | `Next.js 15` `GenAI` `TypeScript` | [View Repo](https://github.com/mahbub203/KrishiBondhu-Ai) |
-| 🛡️ **SMS Shield PRO** | Intelligent SMS security, threat detection, and authorized automation platform. | `Python` `TypeScript` | [View Repo](https://github.com/mahbub203/sms-shield-pro) |
-| 🏥 **Hospital Management System** | Enterprise healthcare management platform built with ASP.NET Core MVC. | `C#` `ASP.NET Core` `MVC` | [View Repo](https://github.com/mahbub203/Hospital-Management-System) |
-| 🎮 **Slap My Enemy** | AI-powered interactive 2D/3D stress relief browser game with custom scenarios. | `TypeScript` `Web Game` | [View Repo](https://github.com/mahbub203/slap-my-enemy) |
-| 🛒 **Bour-Bazar** | Digital family household shopping, smart accounting, and budget management app. | `TypeScript` `FullStack` | [View Repo](https://github.com/mahbub203/bour-Bazar) |
-| 🩸 **Blood Donation Network** | Emergency blood donation coordination and donor management system. | `FullStack` `Web App` | [View Repo](https://github.com/mahbub203/blood-donation-management-system) |
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahbub203&theme=tokyonight" alt="Profile Details" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=mahbub203&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center" style="margin-top: 12px;">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahbub203&theme=tokyonight" alt="Most Commit Language" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahbub203&theme=tokyonight" alt="GitHub Stats Card" />
-</div>
-
----
 
 ### 🐍 Snake Contribution Activity
 
