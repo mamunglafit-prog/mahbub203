@@ -86,10 +86,10 @@ location: Dhaka, Bangladesh
 open_to: [Software Engineering Roles, ML/AI Projects, Tech Collaborations]
 ```
 
-- 💡 **Engineering Mindset:** Crafting responsive, scalable, and intelligent applications with clean architecture and modern development practices.
-- 🔭 **Current Focus:** Next.js 15, TypeScript, Python (Machine Learning & AI flows), ASP.NET Core MVC, and modern cloud deployment.
-- 🤝 **Collaboration:** Actively exploring opportunities to build high-impact web and AI products.
-- 💬 **Ask me about:** JavaScript/TypeScript, React/Next.js, Python, C#/.NET, Machine Learning fundamentals, and full-stack system design.
+-  **Engineering Mindset:** Crafting responsive, scalable, and intelligent applications with clean architecture and modern development practices.
+-  **Current Focus:** Next.js 15, TypeScript, Python (Machine Learning & AI flows), ASP.NET Core MVC, and modern cloud deployment.
+-  **Collaboration:** Actively exploring opportunities to build high-impact web and AI products.
+-  **Ask me about:** JavaScript/TypeScript, React/Next.js, Python, C#/.NET, Machine Learning fundamentals, and full-stack system design.
 
 ---
 
@@ -115,17 +115,6 @@ open_to: [Software Engineering Roles, ML/AI Projects, Tech Collaborations]
 </details>
 
 ---
-
-### 🏆 Featured Projects & Innovations
-
-| Project | Description | Stack | Link |
-| :--- | :--- | :---: | :---: |
-| 🌾 **KrishiBondhu AI** | AI-powered agricultural assistant with multimodal plant disease detection & bilingual voice advisor. | `Next.js 15` `GenAI` `TypeScript` | [View Repo](https://github.com/mahbub203/KrishiBondhu-Ai) |
-| 🛡️ **SMS Shield PRO** | Intelligent SMS security, threat detection, and authorized automation platform. | `Python` `TypeScript` | [View Repo](https://github.com/mahbub203/sms-shield-pro) |
-| 🏥 **Hospital Management System** | Enterprise healthcare management platform built with ASP.NET Core MVC. | `C#` `ASP.NET Core` `MVC` | [View Repo](https://github.com/mahbub203/Hospital-Management-System) |
-| 🎮 **Slap My Enemy** | AI-powered interactive 2D/3D stress relief browser game with custom scenarios. | `TypeScript` `Web Game` | [View Repo](https://github.com/mahbub203/slap-my-enemy) |
-| 🛒 **Bour-Bazar** | Digital family household shopping, smart accounting, and budget management app. | `TypeScript` `FullStack` | [View Repo](https://github.com/mahbub203/bour-Bazar) |
-| 🩸 **Blood Donation Network** | Emergency blood donation coordination and donor management system. | `FullStack` `Web App` | [View Repo](https://github.com/mahbub203/blood-donation-management-system) |
 
 ---
 
